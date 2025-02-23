@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ASP.NET core**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mranas007?tab=repositories).
+- 👨‍💻 All of my projects are available at [Repositories Section](https://github.com/mranas007?tab=repositories).
 
 - 💬 Ask me about **Front-end | Back-end**
 
