@@ -16,8 +16,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **ASP.NET Core** and building full-stack projects  
-- 🛠️ Comfortable with **React**, **Laravel**, **Node.js**, **C#**, and **SQL**  
+- 🌱 Currently diving into **ASP.NET Core** and building full-stack projects  
+- 🛠️ Comfortable with **ASP.NET**, **C#**, **OOPs**, **EF Core**, and **SQL**  
 - 🧠 Always exploring and improving my skills with new technologies  
 - 📂 Check out my [GitHub Repositories](https://github.com/mranas007?tab=repositories)  
 - 💬 Ask me about **Front-end | Back-end | APIs | Databases**
@@ -72,6 +72,7 @@
 ### 🚀 Let’s Connect
 
 - 🔗 [GitHub](https://github.com/mranas007)  
-- 📫 You can reach me at: **[Linkedin](www.linkedin.com/in/mr-anas-9745852a7)**
+- 📫 You can reach me at: <h2><a href="www.linkedin.com/in/mr-anas-9745852a7" target="_blank">Linkedin</a></h2>
 
 ---
+
