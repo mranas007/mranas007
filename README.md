@@ -72,6 +72,6 @@
 ### 🚀 Let’s Connect
 
 - 🔗 [GitHub](https://github.com/mranas007)  
-- 📫 You can reach me at: **[your email if you want to share]**
+- 📫 You can reach me at: **[Linkedin](www.linkedin.com/in/mr-anas-9745852a7)**
 
 ---
