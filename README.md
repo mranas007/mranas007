@@ -20,7 +20,7 @@
 * 🌱 I focus on building **scalable backend applications** with **Django**.
 * 🛠️ Proficient in **Python**, **Django**, Django REST Framework, and **PostgreSQL**.
 * 💡 Secondary backend focus on **Node.js** and **Express.js**.
-* 📂 Check out my [Django E-Commerce Store](https://github.com/mranas007/YOUR_ECOMMERCE_REPO_NAME), a functional business solution.
+* 📂 Check out my [Repositories](https://github.com/mranas007?tab=repositories).
 * 💬 **Ask me about:** Backend Development | APIs | Databases | Linux.
 
 ---
