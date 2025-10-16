@@ -66,4 +66,4 @@
 ## 🚀 Let’s Connect
 
 * **🔗 GitHub:** [mranas007](https://github.com/mranas007)
-* **📫 LinkedIn:** [LinkedIn Profile] (www.linkedin.com/in/mr-anas-9745852a7)
+* **📫 LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/mr-anas-9745852a7)
