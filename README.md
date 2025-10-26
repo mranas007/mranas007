@@ -1,69 +1,65 @@
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="400" align="right"/>
-</div>
+# Hi there, I'm Mr. Anas 👋
 
-# Hi there 👋, I'm Mr. Anas
-
-### A Passionate Python & Django Backend Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mranas007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/mranas007" target="_blank">
-    <img src="https://img.shields.io/github/followers/mranas007?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+### A full stack web developer who loves sharing my insured codes here when I have extra time to benefit others. I hope you will find my repositories useful and learn something from them :)
 
 ---
 
-## 👨‍💻 About Me
+## About me ✨
 
-* 🌱 I focus on building **scalable backend applications** with **Django**.
-* 🛠️ Proficient in **Python**, **Django**, Django REST Framework, and **PostgreSQL**.
-* 💡 Secondary backend focus on **Node.js** and **Express.js**.
-* 📂 Check out my [Repositories](https://github.com/mranas007?tab=repositories).
-* 💬 **Ask me about:** Backend Development | APIs | Databases | Linux.
+Hi! I'm a full stack web developer with a passion for building scalable backend applications. I focus primarily on **Django** and **Python**, but I also work with **Node.js** when needed. I love solving problems and creating APIs that make life easier!
 
 ---
 
-## ⚒️ Tech Stack
+## Skills ⚡
 
-### Core Backend (Python/Django)
-<p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-</p>
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Secondary Backend (JavaScript/Node.js)
-<p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-</p>
-
-### Other Languages & Tools
-<p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-</p>
 
 ---
 
-## 📊 GitHub Stats
+## Tools 🛠️
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## My Stats 📊
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mranas007&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mranas007&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mranas007&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="495" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mranas007&theme=default&hide_border=true" alt="GitHub Streak" width="495" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mranas007&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="495" />
 </p>
 
 ---
 
-## 🚀 Let’s Connect
+**Thanks for reading and have a nice day!**
 
-* **📫 LinkedIn:** [Mr Anas](www.linkedin.com/in/mr-anas-9745852a7)
-* **🔗 GitHub:** [mranas007](https://github.com/mranas007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-anas-9745852a7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mranas007)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mranas007&label=Profile%20Views&color=0e75b6&style=flat)
