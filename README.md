@@ -52,10 +52,6 @@ Hi! I'm a full stack web developer with a passion for building scalable backend 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mranas007&theme=default&hide_border=true" alt="GitHub Streak" width="495" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mranas007&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="495" />
-</p>
-
 ---
 
 **Thanks for reading and have a nice day!**
