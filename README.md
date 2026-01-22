@@ -1,4 +1,4 @@
-# Hi there, I'm Mr. Anas 👋
+# Hi there, I'm Anas Zahid 👋
 
 ### A full stack web developer who loves sharing my insured codes here when I have extra time to benefit others. I hope you will find my repositories useful and learn something from them :)
 
