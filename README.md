@@ -1,6 +1,6 @@
 # Hi there, I'm Anas Zahid 👋
 
-### I'm a full stack Web Developer with a passion for building Web Applications. I love solving problems and creating APIs that make life easier! :)
+### I'm a Full stack Web Developer with a passion for building Web Applications. I love solving problems and creating APIs that make life easier! :)
 
 ---
 ## Skills ⚡
@@ -44,14 +44,8 @@
 ## My Stats 📊
 
 <p align="center">
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaszahid007&theme=github_dark" width="48%" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaszahid007&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaszahid007&theme=github_dark&utcOffset=5" width="50%" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaszahid007&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaszahid007&theme=github_dark&utcOffset=5" width="48%" />
-</p> -->
 
 
 ---
