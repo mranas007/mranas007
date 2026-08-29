@@ -41,7 +41,7 @@
 
 ---
 
-## My Stats 📊
+## Stats 📊
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaszahid007&theme=github_dark&utcOffset=5" width="50%" />
