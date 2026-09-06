@@ -39,14 +39,6 @@
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-## Stats 📊
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaszahid007&theme=github_dark&utcOffset=5" width="50%" />
-</p>
-
 
 ---
 
