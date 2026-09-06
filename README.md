@@ -46,5 +46,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-zahid-9745852a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaszahid007)
-
-![Profile Views](https://komarev.com/ghpvc/?username=anaszahid007&label=Profile%20Views&color=0e75b6&style=flat)
